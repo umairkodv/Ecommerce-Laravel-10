@@ -1,4 +1,4 @@
-# Laravel 10 Complete Ecommerce Solution 
+# Laravel 10 Complete Ecommerce Solution
 # Getting started
 
 ## Installation
