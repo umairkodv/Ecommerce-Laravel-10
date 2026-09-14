@@ -7,6 +7,7 @@ use App\Models\Banner;
 use Illuminate\Support\Str;
 class BannerController extends Controller
 {
+    
     /**
      * Display a listing of the resource.
      *
